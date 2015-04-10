@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <title>Whiskey Heaven</title>
+  <style>
+    body {
+      text-align: center;
+      background: white;
+      background-size: cover;
+      background-position: center;
+      color: black;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+        padding: 20px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+        color: black;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<h1> Welcome to Whiskey Heaven!</h1>
+<body>
+  <p>Here you will only find the whiskeys your grandfather would be proud of.
+    <br> Please your email so we can let you know when we launch</br> </p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+    <a href="http://imgur.com/jwTqJn0"><img src="http://i.imgur.com/jwTqJn0.png" title="source: imgur.com" /></a>
+</body>
