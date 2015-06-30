@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>Whiskey Heaven</title>
+  <title>Welcome to Whiskey Heaven</title>
   <style>
     body {
       text-align: center;
@@ -26,11 +26,11 @@
     }
   </style>
 </head>
-<h1> Welcome to Whiskey Heaven!</h1>
 <body>
   <p>Here you will only find the whiskeys your grandfather would be proud of.
     <br> Please your email so we can let you know when we launch</br> </p>
   <input type="email" placeholder="Your email">
   <input type="submit">
     <a href="http://imgur.com/jwTqJn0"><img src="http://i.imgur.com/jwTqJn0.png" title="source: imgur.com" /></a>
+    <iframe style="width: 100%; height: 480px; border: medium none; visibility: visible;" src="https://relatednoise.com/TheWhiskeyBrothers?iframe=true"></iframe>
 </body>
